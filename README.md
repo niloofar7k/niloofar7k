@@ -1,5 +1,5 @@
 <h2 align="center">
- Computer Engineering Student | AI, Machine Learning & Web Development
+ Computer Engineering Student | Python & Django Developer | Data Science & Machine Learning
 </h2>
 
 ---
