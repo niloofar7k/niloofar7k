@@ -7,14 +7,14 @@
 ### 🛠️ Skills & Technologies
 
 #### Data Science & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-3776AB?style=for-the-badge&logo=jupyter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161638?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-3A2B50?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-5B3487?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-38667E?style=for-the-badge&logoColor=white)
 
 #### Programming & Web
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1B435E?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-161638?style=for-the-badge&logoColor=white)
 
 ---
 
